@@ -1,0 +1,105 @@
+.row1{
+    background: red;
+}
+.row1>img{
+    width: 250px;
+    float: left;
+}
+form{
+    float: left;
+}
+.search{
+    width: 700px;
+}
+.searchTerm {
+        width: 55%;
+        border: 3px solid;
+        padding: 10px;
+        height: 40px;
+}
+.searchButton {
+        width: 50px;
+        height: 50px;
+        background: black;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+}
+
+.row2{
+    clear: both;
+    margin: 150px;
+    color: white;
+    background-color: black;
+}
+
+
+.row3{
+
+
+}
+.row4{
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+.box1{
+    height: 50% ;
+    width: 170px;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    margin: 5px;
+    
+}
+.row5{
+    width: 100%;
+    clear: both;
+    padding-left: 15%;
+    padding-right: 15%;
+    
+}
+
+.box2{
+    height: 80px;
+    width: 10%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    margin: 5px;
+    background-color: blanchedalmond;
+}
+.row6, .row7{
+    width: 100%;
+    clear: both;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.box3{
+    height: 80px;
+    width: 12%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    margin: 6px;
+    background-color: blue;
+}
+.row8 {
+    border: 1px solid blue;
+    background: yellow;
+    height: 200px;
+    width: 65%;
+}
+.box4{
+    height: 80px;
+    width: 8%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    margin: 6px;
+    background-color: green;
+}
+.row9{
+    background-color: blueviolet;
+    text-align: center;
+}
